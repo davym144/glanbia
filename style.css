@@ -1,7 +1,10 @@
+
+
 .container {
     background-color:#AE342E;
     color:white;
     font-size: 16px;
+    font-family: 'Exo', sans-serif;
 }
 h1,h2,h3,h4,h5,h6 {
     color: #F17F28;
@@ -27,6 +30,19 @@ h1,h2,h3,h4,h5,h6 {
 }
 .file {
     display: none;
+}
+
+.feedLinks {
+    font-size: 28px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #F17F28;
+    width: 100%;
+}
+.input-group-text {
+    background-color: transparent;
+    border: none;
 }
 /*Orange:                #F17F28*/
 
