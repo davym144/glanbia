@@ -1,0 +1,34 @@
+.container {
+    background-color:#AE342E;
+    color:white;
+    font-size: 16px;
+}
+h1,h2,h3,h4,h5,h6 {
+    color: #F17F28;
+}
+.comp-heading {
+    font-size: 28px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #F17F28;
+}
+
+.stages {
+    font-size: 28px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #F17F28;
+}
+.comp-text {
+    font-weight: bold;
+}
+.file {
+    display: none;
+}
+/*Orange:                #F17F28*/
+
+/*Red:                       #AE342E*/
+
+/*Blue:                      #043673*/
