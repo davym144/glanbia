@@ -46,13 +46,48 @@ h1,h2,h3,h4,h5,h6 {
 }
 .handPhoto {
     position: relative;
-    top: -125px;
+    top: -220px;
 }
 .gainsFeed2 {
     z-index: 10;
     position: relative;
     right: 80px;
 }
+.top-prize {
+    position: relative;
+    bottom: 185px;
+    left: 110px
+}
+.milkBar50 {
+    position: relative;
+    bottom: 166px;
+    right: 50px;
+}
+.textFeed{
+    bottom: 400px;
+    position: relative;
+    left: 124px;
+}
+#feedBag1 {
+    max-height: 75%;
+    max-width: 75%;
+}
+#feedBag2 {
+    max-height: 75%;
+    max-width: 75%;
+}
+.textAdjust {
+    position: relative;
+    bottom: 400px;
+    left: 124px;
+}
+.bottomLogo {
+    position: relative;
+    left: -100px;
+}
+.gainLogo {
+    position: relative;
+    top: -40px
 }
 /*Orange:                #F17F28*/
 
