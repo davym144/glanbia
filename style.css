@@ -52,7 +52,7 @@ h1,h2,h3,h4,h5,h6 {
 .gainsFeed2 {
     z-index: 10;
     position: relative;
-    right: 170px;
+    right: 101px;
 }
 .top-prize {
     position: relative;
@@ -81,15 +81,28 @@ h1,h2,h3,h4,h5,h6 {
     position: relative;
     bottom: 400px;
     left: 124px;
+
 }
 .bottomLogo {
     position: relative;
+
     left: -100px;
 }
 .gainLogo {
     position: relative;
     top: -40px
 }
+.runnerUp {
+    position: relative;
+    bottom: 450px;
+    margin-left: 152px;
+}
+.pallet {
+    position: relative;
+    bottom: 435px;
+    margin-left: 97px;
+}
+
 /*Orange:                #F17F28*/
 
 /*Red:                       #AE342E*/
