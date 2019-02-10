@@ -116,6 +116,16 @@ h1,h2,h3,h4,h5,h6 {
     height: 50px;
     width: 50px;
 }
+.input-height-cus {
+    height:55px;
+}
+
+.desktop-heading {
+ font-size: 26px;
+}
+.successMessage {
+    font-size: 40px;
+}
 
 /*Orange:                #F17F28*/
 
