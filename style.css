@@ -120,15 +120,14 @@ h1,h2,h3,h4,h5,h6 {
     height:65px;
     font-size: 2.5em;
 }
-
 .desktop-heading {
  font-size: 26px;
 }
 .successMessage {
     font-size: 40px;
 }
-.example {
-
+.photoId {
+    opacity: 0.001;
 }
 /*Orange:                #F17F28*/
 
